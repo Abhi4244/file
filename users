@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Abhinav ahluwali",
+    "name": "HTML basics quiz 1",
     "username": "Bret",
-    "email": "Sincere@april.biz",
+    "email": "This quiz is for level 1",
     "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -26,9 +26,9 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
+    "name": "HTML basics quiz 2",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "email": "This quiz is for level 1",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -51,9 +51,9 @@
   },
   {
     "id": 3,
-    "name": "Ervin Howell",
+    "name": "HTML basic quiz 3",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "email": "This quiz is for level 1",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -76,9 +76,9 @@
   },
   {
     "id": 4,
-    "name": "Clementine Bauch",
+    "name": "HTML intermediate quiz 1",
     "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "email": "This quiz is for level 2",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -101,9 +101,9 @@
   },
   {
     "id": 5,
-    "name": "Patricia Lebsack",
+    "name": "HTML intermediate quiz 2",
     "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
+    "email": "This quiz is for level 2",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -126,9 +126,9 @@
   },
   {
     "id": 6,
-    "name": "Chelsey Dietrich",
+    "name": "HTML intermediate quiz 3",
     "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
+    "email": "This quiz is for level 2",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -151,9 +151,9 @@
   },
   {
     "id": 7,
-    "name": "Mrs. Dennis Schulist",
+    "name": "HTML advanced quiz 1",
     "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
+    "email": "This quiz is for level 3",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -176,10 +176,10 @@
   },
   {
     "id": 8,
-    "name": "Kurtis Weissnat",
+    "name": "HTML advanced quiz 2",
     "username": "Elwyn.Skiles",
         "class" : "card-4",
-    "email": "Telly.Hoeger@billy.biz",
+    "email": "This quiz is for level 3",
     "link": "https://github.com/abhi4244/",
     "address": {
       "street": "Rex Trail",
@@ -201,10 +201,10 @@
   },
   {
     "id": 9,
-    "name": "Nicholas Runolfsdottir V",
+    "name": "HTML advanced quiz 3",
     "username": "Maxime_Nienow",
         "class" : "card-3",
-    "email": "Sherwood@rosamond.me",
+    "email": "This quiz is for level 3",
     "link": "https://github.com/abhi4244/",
     "address": {
       "street": "Ellsworth Summit",
