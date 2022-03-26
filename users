@@ -6,6 +6,7 @@
     "email": "This quiz is for level 1",
     "class" : "card-1",
     "link": "quiz/ct1/html/lv1/htmlbasic1.html",
+    "note": "instruction.html",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -26,6 +27,7 @@
   },
   {
     "id": 2,
+    "note": "instruction.html",
     "name": "HTML basics quiz 2",
     "username": "Antonette",
     "email": "This quiz is for level 1",
@@ -51,6 +53,7 @@
   },
   {
     "id": 3,
+    "note": "instruction.html",
     "name": "HTML basic quiz 3",
     "username": "Antonette",
     "email": "This quiz is for level 1",
@@ -77,6 +80,7 @@
   {
     "id": 4,
     "name": "HTML intermediate quiz 1",
+    "note": "instruction.html",
     "username": "Samantha",
     "email": "This quiz is for level 2",
         "class" : "card-1",
@@ -102,6 +106,7 @@
   {
     "id": 5,
     "name": "HTML intermediate quiz 2",
+    "note": "instruction.html",
     "username": "Karianne",
     "email": "This quiz is for level 2",
         "class" : "card-1",
@@ -127,6 +132,7 @@
   {
     "id": 6,
     "name": "HTML intermediate quiz 3",
+    "note": "instruction.html",
     "username": "Kamren",
     "email": "This quiz is for level 2",
         "class" : "card-1",
@@ -153,6 +159,7 @@
     "id": 7,
     "name": "HTML advanced quiz 1",
     "username": "Leopoldo_Corkery",
+    "note": "instruction.html",
     "email": "This quiz is for level 3",
         "class" : "card-1",
     "link": "https://github.com/abhi4244/",
@@ -178,6 +185,7 @@
     "id": 8,
     "name": "HTML advanced quiz 2",
     "username": "Elwyn.Skiles",
+    "note": "instruction.html",
         "class" : "card-4",
     "email": "This quiz is for level 3",
     "link": "https://github.com/abhi4244/",
@@ -202,6 +210,7 @@
   {
     "id": 9,
     "name": "HTML advanced quiz 3",
+    "note": "instruction.html",
     "username": "Maxime_Nienow",
         "class" : "card-3",
     "email": "This quiz is for level 3",
@@ -227,6 +236,7 @@
   {
     "id": 10,
     "name": "Glenna Reichert",
+    "note": "instruction.html",
     "username": "Delphine",
         "class" : "card-5",
     "email": "Chaim_McDermott@dana.io",
@@ -252,6 +262,7 @@
   {
     "id":11,
     "name": "Clementina DuBuque",
+    "note": "instruction.html",
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
         "class" : "card-2",
@@ -277,6 +288,7 @@
   {
     "id": 12,
     "name": "Abhinav",
+    "note": "instruction.html",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "class" : "card-1",
@@ -302,6 +314,7 @@
   {
     "id": 13,
     "name": "Abhinav",
+    "note": "instruction.html",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "class" : "card-1",
@@ -328,6 +341,7 @@
     "id": 14,
     "name": "Abhinav",
     "username": "Bret",
+    "note": "instruction.html",
     "email": "Sincere@april.biz",
     "class" : "card-1",
     "link": "https://github.com/abhi4244/",
@@ -356,6 +370,7 @@
     "email": "Sincere@april.biz",
     "class" : "card-1",
     "link": "https://github.com/abhi4244/",
+    "note": "instruction.html",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -379,6 +394,7 @@
     "name": "Abhinav",
     "username": "Bret",
     "email": "Sincere@april.biz",
+    "note": "instruction.html",
     "class" : "card-1",
     "link": "https://github.com/abhi4244/",
     "address": {
@@ -403,6 +419,7 @@
     "id": 17,
     "name": "Abhinav",
     "username": "Bret",
+    "note": "instruction.html",
     "email": "Sincere@april.biz",
     "class" : "card-1",
     "link": "https://github.com/abhi4244/",
