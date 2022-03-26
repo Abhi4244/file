@@ -3,6 +3,7 @@
     "id": 1,
     "name": "HTML basics quiz 1",
     "username": "Bret",
+    "level" : "1",
     "email": "This quiz is for level 1",
     "class" : "card-1",
     "link": "quiz/ct1/html/lv1/htmlbasic1.html",
@@ -28,6 +29,7 @@
   {
     "id": 2,
     "note": "instruction.html",
+    "level" : "1",
     "name": "HTML basics quiz 2",
     "username": "Antonette",
     "email": "This quiz is for level 1",
@@ -54,6 +56,7 @@
   {
     "id": 3,
     "note": "instruction.html",
+    "level" : "1",
     "name": "HTML basic quiz 3",
     "username": "Antonette",
     "email": "This quiz is for level 1",
@@ -80,6 +83,7 @@
   {
     "id": 4,
     "name": "HTML intermediate quiz 1",
+    "level" : "2",
     "note": "instruction.html",
     "username": "Samantha",
     "email": "This quiz is for level 2",
@@ -107,6 +111,7 @@
     "id": 5,
     "name": "HTML intermediate quiz 2",
     "note": "instruction.html",
+    "level" : "2",
     "username": "Karianne",
     "email": "This quiz is for level 2",
         "class" : "card-1",
@@ -135,6 +140,7 @@
     "note": "instruction.html",
     "username": "Kamren",
     "email": "This quiz is for level 2",
+    "level" : "2",
         "class" : "card-1",
     "link": "quiz/ct1/html/lv2/htmlbasic3.html",
     "address": {
@@ -158,6 +164,7 @@
   {
     "id": 7,
     "name": "HTML advanced quiz 1",
+    "level" : "3",
     "username": "Leopoldo_Corkery",
     "note": "instruction.html",
     "email": "This quiz is for level 3",
@@ -184,6 +191,7 @@
   {
     "id": 8,
     "name": "HTML advanced quiz 2",
+    "level" : "3",
     "username": "Elwyn.Skiles",
     "note": "instruction.html",
         "class" : "card-4",
@@ -212,6 +220,7 @@
     "name": "HTML advanced quiz 3",
     "note": "instruction.html",
     "username": "Maxime_Nienow",
+    "level" : "3",
         "class" : "card-3",
     "email": "This quiz is for level 3",
     "link": "https://github.com/abhi4244/",
