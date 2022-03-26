@@ -5,7 +5,7 @@
     "username": "Bret",
     "email": "This quiz is for level 1",
     "class" : "card-1",
-    "link": "https://astrofrank.ml/quiz/ct1/html/lv1/htmlbasic1.html",
+    "link": "quiz/ct1/html/lv1/htmlbasic1.html",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
