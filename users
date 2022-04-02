@@ -169,7 +169,7 @@
     "note": "instruction.html",
     "email": "This quiz is for level 3",
         "class" : "card-1",
-    "link": "https://github.com/abhi4244/",
+    "link": "quiz/ct1/html/lv3/htmlbasic1.html",
     "address": {
       "street": "Norberto Crossing",
       "suite": "Apt. 950",
@@ -196,7 +196,7 @@
     "note": "instruction.html",
         "class" : "card-4",
     "email": "This quiz is for level 3",
-    "link": "https://github.com/abhi4244/",
+    "link": "quiz/ct1/html/lv3/htmlbasic2.html",
     "address": {
       "street": "Rex Trail",
       "suite": "Suite 280",
@@ -223,7 +223,7 @@
     "level" : "3",
         "class" : "card-3",
     "email": "This quiz is for level 3",
-    "link": "https://github.com/abhi4244/",
+    "link": "quiz/ct1/html/lv3/htmlbasic3.html",
     "address": {
       "street": "Ellsworth Summit",
       "suite": "Suite 729",
