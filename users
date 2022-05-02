@@ -244,12 +244,12 @@
   },
   {
     "id": 10,
-    "name": "Abhinav",
+    "name": "Coming soon",
     "note": "instruction.html",
     "username": "Delphine",
         "class" : "card-5",
-    "email": "Chaim_McDermott@dana.io",
-    "link": "comingsoon.html",
+    "email": "coming soon",
+    "link": "https://astrofrank.ml/comingsoon.html",
     "address": {
       "street": "Dayna Park",
       "suite": "Suite 449",
@@ -270,12 +270,12 @@
   },
   {
     "id":11,
-    "name": "Abhinav",
+    "name": "Coming soon",
     "note": "instruction.html",
     "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
+    "email": "Coming soon",
         "class" : "card-2",
-    "link": "comingsoon.html",
+    "link": "https://astrofrank.ml/comingsoon.html",
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -293,161 +293,6 @@
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
-  },
-  {
-    "id": 12,
-    "name": "Abhinav",
-    "note": "instruction.html",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "class" : "card-1",
-    "link": "comingsoon.html",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 13,
-    "name": "Abhinav",
-    "note": "instruction.html",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "class" : "card-1",
-    "link": "comingsoon.html",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 14,
-    "name": "Abhinav",
-    "username": "Bret",
-    "note": "instruction.html",
-    "email": "Sincere@april.biz",
-    "class" : "card-1",
-    "link": "comingsoon.html",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 15,
-    "name": "Abhinav",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "class" : "card-1",
-    "link": "comingsoon.html",
-    "note": "instruction.html",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 16,
-    "name": "Abhinav",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "note": "instruction.html",
-    "class" : "card-1",
-    "link": "comingsoon.html",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 17,
-    "name": "Abhinav",
-    "username": "Bret",
-    "note": "instruction.html",
-    "email": "Sincere@april.biz",
-    "class" : "card-1",
-    "link": "comingsoon.html",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
+
   }
 ]
